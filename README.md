@@ -13,11 +13,11 @@ Features
 
 A rainbow-colored piano to have fun playing in the simplest way possible.
 
-    ✔️ Play 7 notes 'C, D, E, F, G, A, B'
-    ✔️ Play 7 notes 'c, d, e, f, g, a, b'
-    ✔️ No internet required
-    ✔️ Landscape
-    ✔️ Portrait
+✔️ Play 7 notes 'C, D, E, F, G, A, B'<br>
+✔️ Play 7 notes 'c, d, e, f, g, a, b'<br>
+✔️ Landscape<br>
+✔️ Portrait
+* no internet connection required
 
 ScreenShots
 ------------
