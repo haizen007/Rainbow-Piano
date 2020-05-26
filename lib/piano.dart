@@ -1,7 +1,5 @@
 class Piano {
-  String pianoText;
+  final String pianoText;
 
-  Piano(String s) {
-    pianoText = s;
-  }
+  Piano(this.pianoText);
 }

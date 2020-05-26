@@ -1,7 +1,7 @@
 Version
 ------------
 
-1.0
+1.1
 
 Google Play
 -----------
@@ -22,6 +22,6 @@ A rainbow-colored piano to have fun playing in the simplest way possible.
 ScreenShots
 ------------
 
-![alt-screenhot](/assets/images/screenshot-1.png "ScreenShot Portrait")
+![alt-screenhot](/assets/images/screenshot-1.png "Portrait")
 
-![alt-screenhot](/assets/images/screenshot-2.png "ScreenShot Landscape")
+![alt-screenhot](/assets/images/screenshot-2.png "Landscape")
