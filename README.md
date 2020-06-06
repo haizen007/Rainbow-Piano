@@ -1,26 +1,23 @@
-Version
-------------
+## Version
 
-1.1
+1.2
 
-Google Play
------------
+## Google Play
 
 Link: [Rainbow Piano](https://play.google.com/store/apps/details?id=br.com.yonathan.rainbowpiano)
 
-Features
-------------
+## Features
 
 A rainbow-colored piano to have fun playing in the simplest way possible.
 
-✔️ Play 7 notes 'C, D, E, F, G, A, B'<br>
-✔️ Play 7 notes 'c, d, e, f, g, a, b'<br>
+✔️ Play 7 notes 'DO, RE, MI, FA, SOL, LA, SI'<br>
+✔️ Play 7 notes 'do, re, mi, fa, sol, la, si'<br>
 ✔️ Landscape<br>
 ✔️ Portrait
-* no internet connection required
 
-ScreenShots
-------------
+- no internet connection required
+
+## ScreenShots
 
 ![alt-screenhot](/assets/images/screenshot-1.png "Portrait")
 

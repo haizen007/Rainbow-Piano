@@ -3,12 +3,9 @@ import 'package:bot_toast/bot_toast.dart';
 import 'package:flutter/material.dart';
 import 'package:rainbow_piano/piano_note.dart';
 
-PianoNote pianoNote = PianoNote();
-
 class PianoButton extends StatelessWidget {
   final Color color;
   final int numb;
-
   final Text text;
 
   PianoButton({@required this.color, @required this.numb, this.text});
@@ -22,18 +19,13 @@ class PianoButton extends StatelessWidget {
         child: text,
         splashColor: color,
         onPressed: () {
-          playSound(numb);
+          AudioCache().play('notes/note$numb.mp3');
           BotToast.showText(
-            text: pianoNote.getPianoNote(numb),
+            text: PianoNote().getPianoNote(numb),
             animationDuration: Duration(milliseconds: 1000),
           );
         },
       ),
     );
-  }
-
-  void playSound(int numb) {
-    final player = AudioCache();
-    player.play('notes/note$numb.mp3');
   }
 }
