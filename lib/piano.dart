@@ -1,5 +1,6 @@
-class Piano {
-  final String pianoText;
+import 'package:flutter/material.dart';
 
-  Piano(this.pianoText);
+class Piano {
+  final String note;
+  Piano({@required this.note});
 }
